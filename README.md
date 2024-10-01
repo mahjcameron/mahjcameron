@@ -1,4 +1,8 @@
-## Hi 👋, My name is Cam, Welcome to my Github
+## Hi 👋, My name is Cam, welcome to my Github!
+
+ - ⛸️ I am currently an Ice Skating Instructor @ TheCityofBurnaby
+ - 🌱 I am here develop my skills in SQL, Tableau and showcase some of my work
+ - 🏢 I am looking to continue my career in Business Analytics so please reach out if you are looking for someone! 
 
 <!--
 **mahjcameron/mahjcameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
