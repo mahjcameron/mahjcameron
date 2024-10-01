@@ -2,7 +2,10 @@
 
  - ⛸️ I am currently an Ice Skating Instructor @ TheCityofBurnaby
  - 🌱 I am here develop my skills in SQL, Tableau and showcase some of my work
- - 🏢 I am looking to continue my career in Business Analytics so please reach out if you are looking for someone! 
+ - 🏢 I am looking to continue my career in Business Analytics so please reach out if you are looking for someone!
+
+My projects are all self driven, and I will constantly be improving them as I continue to learn. Have fun exploring!
+
 
 <!--
 **mahjcameron/mahjcameron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
